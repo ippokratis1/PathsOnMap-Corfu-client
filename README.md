@@ -22,22 +22,23 @@
  2. Λήψη του [Eclipse IDE for Eclipse Committers](http://www.eclipse.org/downloads/packages/eclipse-ide-eclipse-committers-450/marsr). Στη συνέχεια αποσυμπιέστε τον φάκελο που κατεβάσατε και τοποθετήστε τον στην θέση που θέλετε. Τρέξτε το αρχείο eclipse.exe.
  3. Επισκεφθείτε την διεύθυνση http://developer.android.com/sdk/index.html. Μεταβείτε στο κάτω μέρος της ιστοσελίδας μέχρι να φτάσετε στο  SDK Tools Only. Από εκεί επιλέξτε το installer_r24.3.3-windows.exe και κατεβάστε το. Τρέξτε το αρχείο που κατεβάσατε για να γίνει η εγκατάσταση του Android SDK.
  4. Τρέξτε το Android SDK και λάβετε επιπλέον πηγές λογισμικού: Αυτή η εφαρμογή χρησιμοποιεί ορισμένες βιβλιοθήκες της Google που πρέπει να προσθέσετε. Κάνετε κλικ στο κουμπί "Android SDK Manager". Από εκεί επιλέξτε:
- - Tools -> Android SDK build tools 22.0.1
- - Tools ->Android SDK Platform-tools 22
- - Android 5.0.1(API 21) -> SDK Platform
- - Android 5.0.1(API 21) -> Google APIs
- - Android 5.0.1(API 21) -> Sources for Android SDK
- - Android 4.1.2(API 16)->SDK Platform
- - Android 4.1.2(API 16)->Google APIs
- - Android 4.1.2(API 16)->Sources for Android SDK
- - Android 4.0.3(API 15) -> SDK Platform
- - Android 4.0.3(API 15) -> Google APIs
- - Android 4.0.3(API 15) -> Sources for Android SDK
- - Extras > Android Support Repository 
- -  Extras > Android Support Library 
- - Extras > Google Play services 
- - Extras > Google Repository
- - Extras ->Google USB driver
+ 
+- Tools -> Android SDK build tools 22.0.1
+- Tools ->Android SDK Platform-tools 22
+- Android 5.0.1(API 21) -> SDK Platform
+- Android 5.0.1(API 21) -> Google APIs
+- Android 5.0.1(API 21) -> Sources for Android SDK
+- Android 4.1.2(API 16)->SDK Platform
+- Android 4.1.2(API 16)->Google APIs
+- Android 4.1.2(API 16)->Sources for Android SDK
+- Android 4.0.3(API 15) -> SDK Platform
+- Android 4.0.3(API 15) -> Google APIs
+- Android 4.0.3(API 15) -> Sources for Android SDK
+- Extras > Android Support Repository 
+-  Extras > Android Support Library 
+- Extras > Google Play services 
+- Extras > Google Repository
+- Extras ->Google USB driver
 και μετά πατήστε στο κουμπι Install packages... Αποδεχτείτε τους όρους όπου χρειάζεται.
 
 5.Εγκαταστήστε το ADT Plugin For Eclipse: Στο Eclipse επιλέξτε Help-->Install New Software... Στη συνέχεια πατήστε στο κουμπί Add... Στο παράθυρο που θα ανοίξει δώστε για name π.χ. το: ADT Repo, ενώ για location δώστε: http://dl-ssl.google.com/android/eclipse/ και πατήστε το κουμπί *OK*. Στη συνέχεια επιλέξτε το Developer Tools, πατήστε το κουμπί *Next*, αποδεχτείτε τους όρους και πατήστε το κουμπί *Finish*. Στη συνέχεια επανακκινήστε το Eclipse.
