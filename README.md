@@ -1,5 +1,18 @@
 ﻿# PathsOnMap-Corfu-client
  Το PathsOnMap Corfu είναι μια εφαρμογή Android που σκοπό έχει να προτρέψει τους χρήστες να ανεβάζουν τις διαδρομές που κάνουν με τα πόδια, στην Κέρκυρα. Αυτό πετυχαίνεται με την παιχνιδοποίηση της εφαρμογής. Ο τελικός στόχος είναι να δημιουργηθεί ένας χάρτης πεζών για την Κέρκυρα.
+ 
+ Εδώ παρουσιάζεται ο client της εφαρμογής. Αυτός δείχνει όλες τις διαδρομές που έχουν κάνει οι χρήστες έως τώρα, καθώς δίνει και την δυνατότητα να καταγράψει ο χρήστης μια καινούργια διαδρομή: <br />
+ ![enter image description here](https://cloud.githubusercontent.com/assets/3535061/9014463/2986ee72-37cb-11e5-84e7-486421c47f42.PNG) <br />
+Επίσης, δείχνει στον χρήστη τους πόντους που θα πάρει αν ανεβάσει μια διαδρομή: <br />
+![enter image description here](https://cloud.githubusercontent.com/assets/3535061/9021664/c37e42d2-3857-11e5-9cc1-654ca4553e93.PNG) <br />
+Επιπλέον, δείχνει την κατάταξη των χρηστών: <br />
+![enter image description here](https://cloud.githubusercontent.com/assets/3535061/9021663/bce72df8-3857-11e5-8e6f-ec9c59a1c6ee.png) <br />
+Επίσης, εμφανίζει μία μία της διαδρομές που έχουν κάνει οι χρήστες, ώστε να μπορεί ο τρέχων χρήστης να τις κριτικάρει: <br />
+![enter image description here](https://cloud.githubusercontent.com/assets/3535061/9014485/4efb1dd6-37cb-11e5-9dc9-cf995ae4947a.PNG) <br />
+Ακόμα, δίνει τη δυνατότητα να εμφανίζεται ο χάρτης πεζών που έχει δημιουργηθεί: <br />
+![enter image description here](https://cloud.githubusercontent.com/assets/3535061/9014465/2d0e1782-37cb-11e5-8a2d-c82b10a0c6b0.PNG) <br />
+Τέλος, δίνει την δυνατότητα ο χρήστης να ανεβάσει την διαδρομή του στον DropBox: <br />
+![enter image description here](https://cloud.githubusercontent.com/assets/3535061/9021662/b28a0326-3857-11e5-8d1d-fb45d8aa7d05.png) <br />
 
 ## Λήψη ##
 Μπορείτε να κατεβάσετε την εφαρμογή απευθείας από το: http://corfu.pathsonmap.eu/
